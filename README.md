@@ -11,3 +11,6 @@ Database Link: https://drive.google.com/file/d/1yVyALhxUvINCE24EPsgf5ZsrAYH-di7L
 ![Screenshot (626)](https://github.com/ShubhamDambale/Madhav-Ecommerce-Sales-Dashboard-Power-BI-/assets/99756357/cbdcbd8a-b2bd-4230-9d1b-52a43333416b)
 
 
+![Screenshot (627)](https://github.com/ShubhamDambale/Madhav-Ecommerce-Sales-Dashboard-Power-BI-/assets/99756357/6cba4614-c8e7-419f-b846-92ff58cfaf42)
+
+![Screenshot (628)](https://github.com/ShubhamDambale/Madhav-Ecommerce-Sales-Dashboard-Power-BI-/assets/99756357/a4256c74-f1ec-48da-a0b2-15c5c1373232)
